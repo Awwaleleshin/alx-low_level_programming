@@ -3,7 +3,7 @@
 /**
  * swap_int-Swaps the values of 2 integers.
  * @a:First argument
- * @:Second argument
+ * @b:Second argument
  *
  * Return:void
  */
